@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos de Python cacheados
+__pycache__/
+*.pyc
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Salidas automáticas
+*.png
+*.jpg
+*.avi
+*.mp4

@@ -14,7 +14,7 @@ A Python-based desktop application for automated analysis of the Trendelenburg t
 
 ## 📖 About
 
-TrendetecT was developed during professional internship practices in Biomedical Engineering at [Universidad Nacional de Entre Ríos (UNER)](https://www.uner.edu.ar/), Faculty of Engineering, in collaboration with [Hospital de la Baxada](https://www.hospitaldelabaxada.com.ar/).
+TrendetecT was developed during professional internship practices in Biomedical Engineering at [Universidad Nacional de Entre Ríos (UNER)](https://www.uner.edu.ar/), Facultad de Ingeniería, in collaboration with [Hospital de la Baxada](https://www.hospitaldelabaxada.com.ar/).
 
 The application assists physiotherapy professionals in performing objective measurements of angles and timing during the Trendelenburg test, replacing subjective visual assessment with precise computer vision-based analysis.
 
